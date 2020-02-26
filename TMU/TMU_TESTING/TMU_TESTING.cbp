@@ -40,12 +40,12 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="mock_registers.h" />
+		<Unit filename="mock_std_types.h" />
 		<Unit filename="mock_timer.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="mock_timer.h" />
-		<Unit filename="registers.h" />
-		<Unit filename="std_types.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

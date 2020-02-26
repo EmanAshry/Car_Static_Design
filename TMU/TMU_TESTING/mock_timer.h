@@ -5,8 +5,8 @@
 /*				 INCLUDES			        */
 /************************************************************************/
 
-#include "std_types.h"
-#include "registers.h"
+#include "mock_registers.h"
+#include "mock_registers.h"
 #include "common_macros.h"
 //#include "avr/interrupt.h"
 

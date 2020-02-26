@@ -13,7 +13,7 @@
 /*				 INCLUDES											    */
 /************************************************************************/
 
-#include "std_types.h"
+#include "mock_std_types.h"
 #include "common_macros.h"
 #include "mock_timer.h"
 
